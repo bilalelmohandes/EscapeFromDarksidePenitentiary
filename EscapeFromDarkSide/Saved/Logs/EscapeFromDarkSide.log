@@ -2537,3 +2537,5 @@ SkySphereBlueprint
 [2021.01.30-23.11.51:552][829]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.056
 [2021.01.30-23.11.51:563][829]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.01.30-23.11.51:563][829]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.01.30-23.12.33:990][434]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.30-23.12.33:996][434]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
