@@ -949,3 +949,1023 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.22-23.21.14:161][670]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
 [2021.01.22-23.21.14:162][670]PIE: Server logged in
 [2021.01.22-23.21.14:164][670]PIE: Play in editor total start time 0.205 seconds.
+[2021.01.22-23.40.44:148][ 80]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:157][ 80]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:186][ 82]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:188][ 82]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:206][ 82]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:213][ 83]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:234][ 83]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:245][ 84]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:268][ 85]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:269][ 85]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:291][ 85]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:299][ 86]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:301][ 86]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:315][ 86]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:325][ 87]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:327][ 87]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:352][ 88]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:353][ 88]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:373][ 88]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:433][ 91]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:434][ 91]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:455][ 91]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:464][ 92]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:482][ 92]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:490][ 93]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:492][ 93]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:515][ 94]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:517][ 94]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:536][ 94]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:546][ 95]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:564][ 95]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:570][ 96]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:573][ 96]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:596][ 97]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:598][ 97]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:616][ 97]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:625][ 98]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:644][ 98]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:676][100]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:703][101]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:723][101]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:731][102]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:732][102]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:758][103]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:779][103]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:786][104]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:787][104]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:806][104]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:816][105]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:841][106]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:862][106]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:869][107]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:892][107]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:898][108]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.44:921][109]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.45:110][116]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.45:116][117]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PlayerStart_0 : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2021.01.22-23.40.49:870][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.22-23.40.49:870][414]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.22-23.40.49:870][414]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.22-23.40.49:871][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.22-23.40.49:888][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.22-23.40.49:890][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.22-23.40.49:899][414]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.22-23.40.49:899][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.22-23.40.49:901][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.22-23.40.49:935][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.22-23.40.49:938][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.01.22-23.40.50:080][414]LogSlate: Took 0.016254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.22-23.40.50:112][415]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.01.22-23.40.53:577][584]LogSlate: Window 'Message Log' being destroyed
+[2021.01.22-23.40.53:599][584]LogSlate: Window 'Message Log' being destroyed
+[2021.01.23-00.06.05:072][100]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.06.05:072][100]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.06.05:146][100]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.06.05:147][100]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.16.05:636][105]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.16.05:809][105]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.16.05:809][105]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.16.07:339][111]LogHttp: Warning: 0000011B30A58800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAF68DCD-4B7F-E28F-DB28-3EB608F59A5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=dc482a2b4d0d188eb4851bb635fae769%7C7d344fdd948849fcbfe97345583a220e%7C5205a93d-561f-4c68-ac62-869512b311e8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.01.23-00.16.07:339][111]LogHttp: Warning: 0000011B30A58800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.01.23-00.16.07:339][111]LogHttp: Warning: 0000011B30A58800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x11b7d3c3eb0 [can pipeline])
+[2021.01.23-00.16.07:339][111]LogHttp: Warning: 0000011B30A58800: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.01.23-00.16.07:339][111]LogHttp: Warning: 0000011B30A58800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.87.71.10) port 443 (#0))
+[2021.01.23-00.16.07:339][111]LogHttp: Warning: 0000011B30A58800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.01.23-00.16.07:339][111]LogHttp: Warning: 0000011B30A58800: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.01.23-00.16.07:339][111]LogHttp: Warning: 0000011B30A58800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.01.23-00.16.07:339][111]LogHttp: Warning: 0000011B30A58800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.01.23-00.16.07:339][111]LogHttp: Warning: 0000011B30A58800: libcurl info message cache 7 (Closing connection 0)
+[2021.01.23-00.16.07:675][112]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAF68DCD-4B7F-E28F-DB28-3EB608F59A5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=dc482a2b4d0d188eb4851bb635fae769%7C7d344fdd948849fcbfe97345583a220e%7C5205a93d-561f-4c68-ac62-869512b311e8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.01.23-00.16.09:410][116]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.16.09:410][116]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.16.10:564][116]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.16.10:564][116]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.16.10:848][117]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.16.10:923][117]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.16.10:923][117]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.17.14:490][306]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.17.14:490][306]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.17.14:536][306]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.17.14:536][306]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.17.17:174][314]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.17.17:174][314]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.17.17:229][314]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.17.17:229][314]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.18.10:969][474]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.18.10:969][474]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.18.11:008][474]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.18.11:008][474]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.18.13:991][483]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.18.13:991][483]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.18.14:036][483]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.18.14:036][483]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.19.07:339][641]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.19.07:339][641]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.19.07:379][641]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.19.07:379][641]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.19.10:692][651]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.19.10:692][651]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.19.10:777][651]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.19.10:778][651]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.20.03:937][809]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.20.03:937][809]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.20.03:979][809]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.20.03:979][809]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.20.06:952][818]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.20.06:952][818]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.20.07:011][818]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.20.07:011][818]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.21.00:505][977]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.21.00:505][977]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.21.00:543][977]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.21.00:543][977]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.21.03:861][987]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.21.03:861][987]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.21.03:916][987]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.21.03:916][987]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.21.56:976][144]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.21.56:976][144]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.21.57:011][144]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.21.57:011][144]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.21.59:999][153]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.21.59:999][153]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.22.00:046][153]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.22.00:046][153]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.22.53:432][312]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.22.53:432][312]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.22.53:471][312]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.22.53:472][312]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.22.56:472][321]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.22.56:472][321]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.22.56:525][321]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.22.56:525][321]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.23.49:938][480]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.23.49:938][480]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.23.49:977][480]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.23.49:977][480]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.23.52:951][489]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.23.52:951][489]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.23.52:996][489]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.23.52:996][489]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.24.46:385][648]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.24.46:385][648]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.24.46:423][648]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.24.46:423][648]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.24.49:722][658]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.24.49:722][658]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.24.50:013][658]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.24.50:013][658]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.25.42:903][815]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.25.42:903][815]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.25.42:944][815]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.25.42:944][815]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.25.46:258][825]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.25.46:259][825]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.25.46:314][825]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.25.46:314][825]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.26.39:383][983]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.26.39:383][983]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.26.39:418][983]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.26.39:418][983]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.26.42:745][993]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.26.42:745][993]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.26.43:123][993]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.26.43:123][993]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.27.35:883][150]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.27.35:883][150]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.27.35:921][150]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.27.35:921][150]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.27.38:899][159]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.27.38:899][159]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.27.38:947][159]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.27.38:947][159]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.28.32:440][318]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.28.32:440][318]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.28.32:479][318]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.28.32:480][318]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.28.35:573][327]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.28.35:573][327]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.28.35:771][327]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.28.35:771][327]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.29.28:974][485]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.29.28:974][485]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.29.29:017][485]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.29.29:017][485]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.29.31:661][493]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.29.31:661][493]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.29.31:716][493]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.29.31:716][493]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.30.25:414][653]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.30.25:414][653]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.30.25:460][653]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.30.25:460][653]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.30.28:294][661]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.30.28:294][661]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.30.28:340][661]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.30.28:340][661]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.31.21:942][821]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.31.21:942][821]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.31.21:987][821]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.31.21:987][821]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.31.24:632][829]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.31.24:632][829]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.31.24:678][829]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.31.24:678][829]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.32.31:404][ 26]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.32.31:404][ 26]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.32.31:445][ 26]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.32.31:445][ 26]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.32.34:423][ 35]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.32.34:423][ 35]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.32.34:465][ 35]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.32.34:465][ 35]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.33.27:859][194]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.33.27:859][194]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.33.27:895][194]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.33.27:895][194]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.33.30:874][203]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.33.30:874][203]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.33.30:916][203]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.33.30:916][203]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.34.24:520][362]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.34.24:521][362]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.34.24:557][362]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.34.24:557][362]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.34.27:538][371]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.34.27:538][371]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.34.27:582][371]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.34.27:583][371]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.35.20:904][530]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.35.20:905][530]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.35.20:941][530]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.35.20:941][530]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.35.23:950][539]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.35.23:950][539]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.35.24:004][539]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.35.24:004][539]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.36.17:156][697]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.36.17:156][697]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.36.17:213][697]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.36.17:213][697]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.36.20:405][707]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.36.20:406][707]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.36.20:460][707]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.36.20:461][707]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.37.13:865][866]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.37.13:865][866]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.37.13:905][866]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.37.13:905][866]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.37.16:881][875]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.37.16:881][875]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.37.16:919][875]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.37.16:919][875]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.38.10:402][ 34]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.38.10:402][ 34]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.38.10:440][ 34]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.38.10:440][ 34]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.38.13:419][ 43]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.38.13:419][ 43]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.38.13:458][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.38.13:458][ 43]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.39.06:938][202]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.39.06:938][202]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.39.06:975][202]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.39.06:975][202]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.39.09:951][211]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.39.09:951][211]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.39.10:213][211]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.39.10:213][211]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.40.03:229][369]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.40.03:229][369]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.40.03:286][369]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.40.03:286][369]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.40.06:467][379]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.40.06:467][379]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.40.06:631][379]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.40.06:631][379]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.40.59:920][538]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.40.59:920][538]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.40.59:955][538]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.40.59:955][538]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.41.02:939][547]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.41.02:939][547]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.41.02:990][547]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.41.02:990][547]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.41.56:419][706]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.41.56:420][706]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.41.56:461][706]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.41.56:462][706]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.41.59:490][715]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.41.59:490][715]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.41.59:557][715]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.41.59:557][715]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.42.52:905][874]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.42.52:905][874]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.42.52:951][874]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.42.52:952][874]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.42.55:918][883]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.42.55:918][883]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.42.55:966][883]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.42.55:967][883]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.43.49:451][ 42]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.43.49:451][ 42]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.43.49:493][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.43.49:493][ 42]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.43.52:467][ 51]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.43.52:467][ 51]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.43.52:517][ 51]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.43.52:517][ 51]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.44.45:889][210]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.44.45:889][210]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.44.45:929][210]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.44.45:929][210]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.44.48:898][219]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.44.48:898][219]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.44.48:950][219]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.44.48:950][219]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.45.42:373][377]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.45.42:373][377]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.45.42:419][377]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.45.42:419][377]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.45.45:389][386]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.45.45:390][386]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.45.45:440][386]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.45.45:440][386]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.46.38:894][545]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.46.38:895][545]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.46.38:939][545]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.46.38:939][545]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.46.41:912][554]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.46.41:912][554]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.46.41:950][554]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.46.41:950][554]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.47.35:353][713]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.47.35:353][713]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.47.35:422][713]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.47.35:422][713]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.47.38:370][722]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.47.38:370][722]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.47.38:412][722]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.47.38:412][722]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.48.31:890][881]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.48.31:890][881]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.48.31:933][881]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.48.31:933][881]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.48.34:933][890]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.48.34:933][890]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.48.35:002][890]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.48.35:002][890]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.49.28:364][ 49]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.49.28:364][ 49]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.49.28:404][ 49]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.49.28:404][ 49]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.49.31:384][ 58]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.49.31:384][ 58]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.49.31:438][ 58]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.49.31:438][ 58]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.50.24:875][217]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.50.24:875][217]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.50.24:918][217]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.50.24:918][217]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.50.27:893][226]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.50.27:893][226]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.50.27:931][226]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.50.27:931][226]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.51.21:372][383]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.51.21:372][383]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.51.21:415][383]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.51.21:415][383]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.51.24:388][392]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.51.24:388][392]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.51.24:438][392]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.51.24:438][392]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.52.17:950][550]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.52.17:950][550]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.52.17:991][550]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.52.17:991][550]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.52.20:971][559]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.52.20:972][559]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.52.22:018][559]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.52.22:018][559]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.52.22:203][560]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.52.22:423][560]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.52.22:423][560]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.53.14:321][715]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.53.14:321][715]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.53.14:362][715]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.53.14:362][715]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.53.17:030][723]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.53.17:030][723]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.53.17:079][723]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.53.17:079][723]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.54.10:766][883]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.54.10:766][883]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.54.10:819][883]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.54.10:819][883]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.54.13:781][892]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.54.13:781][892]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.54.14:780][892]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.54.14:814][892]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.54.15:138][893]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.54.15:199][893]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.54.15:200][893]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.55.07:184][ 48]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.55.07:184][ 48]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.55.07:235][ 48]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.55.07:235][ 48]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.55.10:195][ 57]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.55.10:195][ 57]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.55.10:669][ 57]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.55.10:670][ 57]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.56.03:554][214]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.56.03:554][214]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.56.03:612][214]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.56.03:612][214]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.56.06:250][222]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.56.06:250][222]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.56.06:304][222]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.56.06:304][222]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.56.59:994][382]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.56.59:994][382]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.57.00:045][382]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.57.00:045][382]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.57.02:693][390]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.57.02:693][390]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.57.02:743][390]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.57.02:743][390]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.57.56:338][547]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.57.56:338][547]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.57.56:381][547]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.57.56:381][547]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.57.59:351][556]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.57.59:351][556]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.57.59:404][556]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.57.59:404][556]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.58.53:030][715]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.58.53:030][715]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.58.53:070][715]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.58.53:070][715]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.58.56:049][724]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.58.56:049][724]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.58.56:101][724]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.58.56:101][724]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.59.49:497][880]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-00.59.49:497][880]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.59.49:542][880]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.59.49:542][880]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-00.59.52:179][888]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-00.59.52:180][888]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-00.59.52:220][888]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-00.59.52:220][888]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.00.45:928][ 47]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.00.45:928][ 47]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.00.45:974][ 47]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.00.45:974][ 47]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.00.48:634][ 55]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.00.48:634][ 55]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.00.48:687][ 55]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.00.48:687][ 55]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.01.42:370][212]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.01.42:370][212]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.01.42:413][212]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.01.42:413][212]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.01.45:377][221]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.01.45:377][221]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.01.45:427][221]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.01.45:427][221]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.02.38:924][380]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.02.38:924][380]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.02.38:971][380]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.02.38:971][380]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.02.41:613][388]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.02.41:613][388]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.02.41:665][388]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.02.41:665][388]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.03.35:369][544]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.03.35:369][544]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.03.35:431][544]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.03.35:431][544]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.03.38:397][553]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.03.38:397][553]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.03.38:434][553]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.03.38:435][553]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.03.39:976][554]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.03.40:036][554]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.03.40:036][554]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.04.31:948][708]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.04.31:948][708]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.04.31:994][708]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.04.31:994][708]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.04.34:633][716]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.04.34:633][716]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.04.34:682][716]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.04.34:682][716]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.05.28:387][876]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.05.28:388][876]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.05.28:429][876]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.05.28:429][876]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.05.31:406][885]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.05.31:406][885]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.05.31:471][885]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.05.31:471][885]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.06.25:010][ 44]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.06.25:010][ 44]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.06.25:080][ 44]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.06.25:080][ 44]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.06.28:036][ 53]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.06.28:036][ 53]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.06.28:087][ 53]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.06.28:088][ 53]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.07.21:522][210]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.07.21:522][210]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.07.21:587][210]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.07.21:587][210]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.07.24:533][219]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.07.24:533][219]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.07.24:594][219]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.07.24:594][219]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.08.18:036][376]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.08.18:036][376]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.08.18:085][376]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.08.18:085][376]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.08.20:731][384]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.08.20:731][384]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.08.20:781][384]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.08.20:781][384]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.09.14:534][544]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.09.14:534][544]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.09.14:579][544]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.09.14:579][544]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.09.18:917][553]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.09.18:917][553]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.09.19:159][553]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.09.19:159][553]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.10.11:052][708]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.10.11:052][708]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.10.11:100][708]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.10.11:100][708]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.10.14:061][717]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.10.14:062][717]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.10.14:112][717]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.10.14:112][717]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.11.07:459][873]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.11.07:459][873]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.11.07:505][873]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.11.07:505][873]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.11.10:165][881]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.11.10:165][881]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.11.10:213][881]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.11.10:213][881]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.12.03:980][ 39]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.12.03:980][ 39]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.12.04:018][ 39]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.12.04:018][ 39]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.12.06:664][ 47]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.12.06:664][ 47]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.12.06:711][ 47]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.12.06:711][ 47]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.13.00:455][204]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.13.00:455][204]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.13.00:500][204]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.13.00:500][204]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.13.03:164][212]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.13.03:164][212]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.13.03:214][212]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.13.03:214][212]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.13.56:873][367]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.13.56:873][367]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.13.56:921][367]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.13.56:921][367]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.13.59:878][376]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.13.59:878][376]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.13.59:929][376]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.13.59:929][376]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.14.53:393][534]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.14.53:393][534]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.14.53:438][534]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.14.53:438][534]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.14.56:413][543]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.14.56:413][543]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.14.56:464][543]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.14.56:464][543]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.14.58:265][544]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.14.58:491][544]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.14.58:491][544]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.15.49:906][697]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.15.49:907][697]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.15.49:951][697]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.15.49:951][697]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.15.52:634][705]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.15.52:634][705]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.15.52:680][705]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.15.52:680][705]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.16.46:363][864]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.16.46:363][864]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.16.46:407][864]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.16.46:407][864]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.16.49:382][873]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.16.49:382][873]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.16.49:449][873]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.16.49:449][873]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.17.43:005][ 32]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.17.43:005][ 32]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.17.43:053][ 32]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.17.43:053][ 32]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.17.46:016][ 41]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.17.46:017][ 41]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.17.46:071][ 41]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.17.46:071][ 41]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.18.39:477][196]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.18.39:477][196]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.18.39:523][196]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.18.39:524][196]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.18.42:168][204]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.18.42:168][204]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.18.42:213][204]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.18.42:213][204]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.19.35:947][363]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.19.35:947][363]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.19.35:995][363]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.19.35:995][363]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.19.38:958][372]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.19.38:958][372]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.19.39:017][372]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.19.39:017][372]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.20.32:419][528]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.20.32:419][528]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.20.32:465][528]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.20.32:465][528]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.20.35:152][536]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.20.35:152][536]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.20.35:197][536]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.20.35:197][536]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.21.28:897][693]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.21.28:897][693]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.21.28:945][693]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.21.28:945][693]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.21.31:906][702]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.21.31:906][702]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.21.31:938][702]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.21.31:938][702]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.21.34:097][703]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.21.34:155][703]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.21.34:155][703]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.22.25:429][856]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.22.25:429][856]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.22.25:476][856]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.22.25:476][856]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.22.28:123][864]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.22.28:123][864]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.22.28:172][864]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.22.28:172][864]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.23.21:930][ 24]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.23.21:931][ 24]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.23.21:977][ 24]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.23.21:977][ 24]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.23.24:950][ 33]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.23.24:950][ 33]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.23.25:014][ 33]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.23.25:015][ 33]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.24.18:466][189]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.24.18:466][189]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.24.18:511][189]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.24.18:511][189]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.24.21:151][197]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.24.21:151][197]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.24.21:201][197]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.24.21:201][197]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.25.14:902][356]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.25.14:902][356]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.25.14:949][356]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.25.14:949][356]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.25.17:639][364]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.25.17:639][364]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.25.17:685][364]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.25.17:685][364]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.26.11:342][523]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.26.11:342][523]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.26.11:387][523]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.26.11:387][523]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.26.14:350][532]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.26.14:350][532]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.26.14:413][532]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.26.14:413][532]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.27.07:887][685]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.27.07:887][685]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.27.07:931][685]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.27.07:931][685]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.27.10:918][694]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.27.10:918][694]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.27.10:959][694]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.27.10:959][694]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.28.04:440][848]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.28.04:440][848]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.28.04:485][848]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.28.04:485][848]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.28.07:115][856]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.28.07:115][856]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.28.07:182][856]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.28.07:182][856]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.29.00:907][ 10]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.29.00:907][ 10]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.29.00:952][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.29.00:952][ 10]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.29.03:634][ 18]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.29.03:634][ 18]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.29.03:683][ 18]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.29.03:683][ 18]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.29.57:489][178]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.29.57:490][178]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.29.57:534][178]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.29.57:534][178]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.30.00:177][186]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.30.00:177][186]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.30.00:240][186]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.30.00:240][186]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.30.53:971][342]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.30.53:971][342]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.30.54:027][342]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.30.54:027][342]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.30.56:672][350]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.30.56:672][350]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.30.56:719][350]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.30.56:719][350]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.31.50:286][506]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.31.50:286][506]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.31.50:323][506]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.31.50:323][506]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.31.53:298][515]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.31.53:298][515]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.31.53:350][515]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.31.53:350][515]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.32.46:693][673]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.32.46:693][673]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.32.46:736][673]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.32.46:736][673]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.32.49:384][681]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.32.49:384][681]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.32.49:424][681]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.32.49:424][681]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.33.43:095][836]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.33.43:095][836]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.33.43:150][836]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.33.43:150][836]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.33.46:115][845]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.33.46:115][845]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.33.46:166][845]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.33.46:166][845]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.34.39:622][  1]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.34.39:622][  1]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.34.39:681][  1]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.34.39:681][  1]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.34.42:641][ 10]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.34.42:641][ 10]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.34.42:693][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.34.42:694][ 10]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.35.36:136][162]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.35.36:136][162]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.35.36:189][162]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.35.36:189][162]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.35.38:838][170]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.35.38:838][170]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.35.38:894][170]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.35.38:894][170]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.36.32:601][329]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.36.32:601][329]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.36.32:652][329]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.36.32:652][329]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.36.35:613][338]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.36.35:613][338]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.36.38:202][338]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.36.38:202][338]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.36.38:354][339]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.36.38:408][339]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.36.38:408][339]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.37.29:170][490]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.37.29:170][490]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.37.29:210][490]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.37.29:210][490]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.37.31:868][498]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.37.31:869][498]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.37.31:910][498]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.37.31:910][498]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.38.25:620][651]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.38.25:620][651]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.38.25:680][651]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.38.25:680][651]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.38.28:627][660]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.38.28:627][660]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.38.28:675][660]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.38.28:675][660]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.39.22:147][813]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.39.22:147][813]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.39.22:197][813]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.39.22:197][813]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.39.25:172][822]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.39.25:172][822]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.39.25:229][822]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.39.25:230][822]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.40.18:575][978]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.40.18:575][978]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.40.18:630][978]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.40.18:630][978]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.40.21:484][986]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.40.21:484][986]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.40.21:527][986]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.40.21:528][986]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.41.15:030][145]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.41.15:030][145]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.41.15:072][145]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.41.15:072][145]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.41.17:962][153]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.41.17:962][153]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.41.18:013][153]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.41.18:013][153]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.42.11:481][305]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.42.11:481][305]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.42.11:529][305]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.42.11:529][305]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.42.14:162][313]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.42.14:162][313]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.42.14:230][313]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.42.14:230][313]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.43.07:951][469]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.43.07:951][469]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.43.08:012][469]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.43.08:012][469]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.43.10:673][477]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.43.10:673][477]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.43.10:720][477]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.43.10:720][477]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.44.04:301][629]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.44.04:301][629]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.44.04:353][629]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.44.04:353][629]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.44.07:146][638]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.44.07:146][638]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.44.07:196][638]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.44.07:196][638]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.45.00:957][796]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.45.00:957][796]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.45.01:013][796]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.45.01:013][796]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.45.03:636][804]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.45.03:636][804]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.45.03:685][804]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.45.03:685][804]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.45.57:439][964]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.45.57:439][964]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.45.57:486][964]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.45.57:486][964]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.46.00:456][973]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.46.00:456][973]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.46.00:507][973]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.46.00:507][973]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.46.53:907][130]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.46.53:907][130]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.46.53:956][130]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.46.53:956][130]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.46.56:915][139]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.46.56:915][139]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.46.56:967][139]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.46.56:967][139]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.47.50:434][293]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.47.50:435][293]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.47.50:467][293]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.47.50:467][293]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.47.53:135][301]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.47.53:135][301]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.47.53:188][301]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.47.53:188][301]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.49.39:037][611]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.49.39:037][611]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.49.39:072][611]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.49.39:072][611]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.49.42:058][620]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.49.42:058][620]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.49.42:099][620]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.49.42:099][620]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.50.35:503][779]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.50.35:503][779]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.50.35:541][779]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.50.35:541][779]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.50.38:196][787]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.50.38:197][787]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.50.38:250][787]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.50.38:250][787]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.51.31:825][947]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.51.31:825][947]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.51.31:870][947]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.51.31:870][947]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.51.34:851][956]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.51.34:851][956]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.51.34:902][956]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.51.34:902][956]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.52.28:339][115]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.52.28:339][115]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.52.28:375][115]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.52.28:375][115]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.52.31:356][124]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.52.31:356][124]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.52.31:406][124]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.52.31:406][124]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.53.24:893][283]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.53.24:893][283]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.53.24:928][283]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.53.24:928][283]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.53.27:905][292]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.53.27:905][292]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.53.27:958][292]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.53.27:958][292]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.54.21:378][451]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.54.21:378][451]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.54.21:412][451]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.54.21:412][451]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.54.24:590][460]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.54.24:590][460]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.54.24:644][460]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.54.24:644][460]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.55.17:862][618]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.55.17:862][618]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.55.17:900][618]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.55.17:900][618]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.55.20:910][628]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.55.21:211][628]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.55.21:268][628]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.55.21:268][628]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.56.14:376][786]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.56.14:376][786]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.56.14:412][786]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.56.14:412][786]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.56.17:390][795]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.56.17:390][795]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.56.17:442][795]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.56.17:442][795]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.57.10:899][954]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.57.10:899][954]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.57.10:937][954]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.57.10:937][954]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.57.13:911][963]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.57.13:911][963]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.57.13:963][963]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.57.13:963][963]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.58.46:741][239]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.58.46:741][239]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.58.46:781][239]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.58.46:782][239]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.58.49:755][248]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.58.49:755][248]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.58.49:816][248]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.58.49:816][248]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.59.43:201][407]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-01.59.43:201][407]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.59.43:242][407]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.59.43:242][407]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-01.59.46:218][416]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-01.59.46:218][416]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-01.59.46:274][416]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-01.59.46:274][416]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-02.00.39:658][575]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-02.00.39:658][575]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-02.00.39:698][575]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-02.00.39:698][575]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-02.00.42:670][584]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-02.00.42:670][584]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-02.00.42:716][584]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-02.00.42:716][584]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-02.01.36:169][743]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-02.01.36:169][743]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-02.01.36:211][743]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-02.01.36:211][743]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-02.01.39:184][752]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-02.01.39:184][752]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-02.01.39:238][752]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-02.01.39:238][752]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-02.02.02:286][819]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-02.02.02:286][819]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-02.02.02:347][819]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-02.02.02:347][819]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-02.53.05:425][957]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-02.53.05:458][957]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-02.53.05:458][957]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-04.55.46:915][964]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2021.01.23-04.55.50:223][974]LogHttp: Warning: 0000011B3A5D0800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAF68DCD-4B7F-E28F-DB28-3EB608F59A5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=dc482a2b4d0d188eb4851bb635fae769%7C7d344fdd948849fcbfe97345583a220e%7C5205a93d-561f-4c68-ac62-869512b311e8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.01.23-04.55.50:223][974]LogHttp: Warning: 0000011B3A5D0800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.01.23-04.55.50:224][974]LogHttp: Warning: 0000011B3A5D0800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x11b7d3c00a0 [can pipeline])
+[2021.01.23-04.55.50:235][974]LogHttp: Warning: 0000011B3A5D0800: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2021.01.23-04.55.50:235][974]LogHttp: Warning: 0000011B3A5D0800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.5.28.179) port 443 (#1))
+[2021.01.23-04.55.50:235][974]LogHttp: Warning: 0000011B3A5D0800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.01.23-04.55.50:235][974]LogHttp: Warning: 0000011B3A5D0800: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.01.23-04.55.50:235][974]LogHttp: Warning: 0000011B3A5D0800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.01.23-04.55.50:235][974]LogHttp: Warning: 0000011B3A5D0800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.01.23-04.55.50:235][974]LogHttp: Warning: 0000011B3A5D0800: libcurl info message cache 7 (Closing connection 1)
+[2021.01.23-04.55.50:236][974]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAF68DCD-4B7F-E28F-DB28-3EB608F59A5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=dc482a2b4d0d188eb4851bb635fae769%7C7d344fdd948849fcbfe97345583a220e%7C5205a93d-561f-4c68-ac62-869512b311e8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.01.23-04.57.06:687][197]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fbd990f4-04dc-4efd-b195-df6852e84990}.
+[2021.01.23-04.57.06:687][197]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.23-04.57.06:743][197]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-04.57.06:743][197]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-07.12.54:355][444]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d7e5b26-5824-4c45-9ecd-7661c1a44a4c}.
+[2021.01.23-07.12.54:355][444]LogAudioMixer: Resetting audio stream to device id 
