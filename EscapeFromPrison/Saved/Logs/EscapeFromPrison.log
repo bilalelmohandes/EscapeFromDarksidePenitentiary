@@ -2217,3 +2217,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-02.15.50:263][644]LogAudioMixer: Display: 1: FrontRight
 [2021.01.31-02.17.25:587][928]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2021.01.31-02.18.37:276][455]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.31-02.25.28:140][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.01.31-02.25.28:189][662]LogSavePackage: Moving '../../../../../../Users/ishaa/OneDrive/Documents/GitHub/EscapeFromDarksidePenitentiary/EscapeFromPrison/Saved/guardsroom2FC04AB54EDB25859B6D43AE7926EAD2.tmp' to '../../../../../../Users/ishaa/OneDrive/Documents/GitHub/EscapeFromDarksidePenitentiary/EscapeFromPrison/Content/Maps/guardsroom.umap'
+[2021.01.31-02.25.28:242][662]LogSavePackage: Moving '../../../../../../Users/ishaa/OneDrive/Documents/GitHub/EscapeFromDarksidePenitentiary/EscapeFromPrison/Saved/guardsroom_BuiltDataFE9D2767456B1C1948EADAA3246F8026.tmp' to '../../../../../../Users/ishaa/OneDrive/Documents/GitHub/EscapeFromDarksidePenitentiary/EscapeFromPrison/Content/Maps/guardsroom_BuiltData.uasset'
+[2021.01.31-02.25.28:266][662]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-02.25.28:267][662]LogContentValidation: Display: Validating World /Game/Maps/guardsroom.guardsroom
+[2021.01.31-02.25.28:267][662]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/guardsroom_BuiltData.guardsroom_BuiltData
+[2021.01.31-02.25.31:224][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.01.31-02.25.31:264][789]LogSavePackage: Moving '../../../../../../Users/ishaa/OneDrive/Documents/GitHub/EscapeFromDarksidePenitentiary/EscapeFromPrison/Saved/guardsroomE19F0F724E817D7F558D99AD84A85D32.tmp' to '../../../../../../Users/ishaa/OneDrive/Documents/GitHub/EscapeFromDarksidePenitentiary/EscapeFromPrison/Content/Maps/guardsroom.umap'
+[2021.01.31-02.25.31:318][789]LogSavePackage: Moving '../../../../../../Users/ishaa/OneDrive/Documents/GitHub/EscapeFromDarksidePenitentiary/EscapeFromPrison/Saved/guardsroom_BuiltDataB07A1B35470D6E686D04ADAB0F2CC5D0.tmp' to '../../../../../../Users/ishaa/OneDrive/Documents/GitHub/EscapeFromDarksidePenitentiary/EscapeFromPrison/Content/Maps/guardsroom_BuiltData.uasset'
+[2021.01.31-02.25.31:343][789]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-02.25.31:344][789]LogContentValidation: Display: Validating World /Game/Maps/guardsroom.guardsroom
+[2021.01.31-02.25.31:344][789]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/guardsroom_BuiltData.guardsroom_BuiltData
